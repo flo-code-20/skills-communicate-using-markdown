@@ -14,3 +14,7 @@ int main(){
   return 0;
 }
 ```
+### Adding a list of things to learn
+- [ ] Turn on GitHub Pages
+- [ ] Get back to coding with Python
+- [x] Learn how to use GiHub 
